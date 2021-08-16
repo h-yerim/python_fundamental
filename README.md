@@ -1,1 +1,1 @@
-# python_fundamental
+# 파이썬 교육때 들은 자료 + 
